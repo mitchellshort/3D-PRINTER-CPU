@@ -2,6 +2,7 @@
 3D PRINTER CONTROLLER &amp; TEMPERATURE PROTECTION 
 
 Features:
+<br/>
 -Temperature Monitoring
 -OLED Display
 -IR Flame Detection
