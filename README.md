@@ -1,4 +1,4 @@
-# 3D-PRINTER-CPU
+# 3D Printer Controller
 3D PRINTER CONTROLLER &amp; TEMPERATURE PROTECTION 
 
 Features:
@@ -7,3 +7,4 @@ Features:
 -OLED Display <br/>
 -IR Flame Detection <br/>
 -Automated CO2 Extingisher <br/>
+
