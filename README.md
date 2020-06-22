@@ -4,6 +4,6 @@
 Features:
 <br/>
 -Temperature Monitoring <br/>
--OLED Displa y<br/>
+-OLED Display <br/>
 -IR Flame Detection <br/>
 -Automated CO2 Extingisher <br/>
